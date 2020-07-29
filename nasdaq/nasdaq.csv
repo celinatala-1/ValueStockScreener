@@ -1,0 +1,744 @@
+,Ticker,Name,CIK
+0,AACQU,Artius Acquisition Inc.,1802457
+1,ABEO,Abeona Therapeutics Inc.,318306
+2,ABIO,"ARCA biopharma, Inc.",907654
+3,ACAM,Acamar Partners Acquisition Corp.,1759008
+4,ACER,Acer Therapeutics Inc.,1069308
+5,ACNB,ACNB Corporation,715579
+6,ADIL,"Adial Pharmaceuticals, Inc",1513525
+7,ADTX,"ADiTx Therapeutics, Inc.",1726711
+8,ADXN,Addex Therapeutics Ltd,1574232
+9,AEHR,Aehr Test Systems,1040470
+10,AEMD,"Aethlon Medical, Inc.",882291
+11,AESE,"Allied Esports Entertainment, Inc.",1708341
+12,AEYE,"AudioEye, Inc.",1362190
+13,AGBA,AGBA Acquisition Limited,1769624
+14,AGEN,Agenus Inc.,1098972
+15,AGRX,"Agile Therapeutics, Inc.",1261249
+16,AHCO,AdaptHealth Corp.,1725255
+17,AHPI,"Allied Healthcare Products, Inc.",874710
+18,AIRG,"Airgain, Inc.",1272842
+19,AKER,Akers Biosciences Inc.,1321834
+20,AKTS,"Akoustis Technologies, Inc.",1584754
+21,AKTX,Akari Therapeutics Plc,1541157
+22,ALAC,Alberton Acquisition Corporation,1748621
+23,ALBO,"Albireo Pharma, Inc.",1322505
+24,ALDX,"Aldeyra Therapeutics, Inc.",1341235
+25,ALRN,"Aileron Therapeutics, Inc.",1420565
+26,ALRS,Alerus Financial Corporation,903419
+27,ALTA,Altabancorp,1636286
+28,ALYA,Alithya Group inc.,1734520
+29,AMCI,AMCI Acquisition Corp.,1744494
+30,AMEH,"Apollo Medical Holdings, Inc.",1083446
+31,AMHC,Amplitude Healthcare Acquisition Corporation,1788028
+32,AMRH,"Ameri Holdings, Inc.",890821
+33,ANCN,Anchiano Therapeutics Ltd.,1534248
+34,ANDA,Andina Acquisition Corp. III,1691936
+35,ANIX,"Anixa Biosciences, Inc.",715446
+36,APDN,"Applied DNA Sciences, Inc.",744452
+37,APOP,Cellect Biotechnology Ltd.,1671502
+38,APPS,"Digital Turbine, Inc.",317788
+39,APTO,"Aptose Biosciences, Inc.",882361
+40,APVO,Aptevo Therapeutics Inc.,1671584
+41,APXT,Apex Technology Acquisition Corporation,1777921
+42,AQB,"AquaBounty Technologies, Inc.",1603978
+43,ARDS,Aridis Pharmaceuticals Inc.,1614067
+44,ARPO,"Aerpio Pharmaceuticals, Inc.",1422142
+45,ARTL,"Artelo Biosciences, Inc.",1621221
+46,ARTW,Art's,7623
+47,ARYBU,ARYA Sciences Acquisition Corp II,1805387
+48,ASTC,Astrotech Corporation,1001907
+49,ASUR,Asure Software Inc,884144
+50,ATEX,Anterix Inc.,1304492
+51,ATHE,Alterity Therapeutics Limited,1131343
+52,ATHX,"Athersys, Inc.",1368148
+53,ATIF,ATIF Holdings Limited,1755058
+54,ATLO,Ames National Corporation,1132651
+55,ATOM,Atomera Incorporated,1420520
+56,ATOS,"Atossa Therapeutics, Inc.",1488039
+57,ATRS,"Antares Pharma, Inc.",1016169
+58,ATXI,"Avenue Therapeutics, Inc.",1644963
+59,AUTO,"AutoWeb, Inc.",1023364
+60,AVCO,Avalon GloboCare Corp.,
+61,AVEO,"AVEO Pharmaceuticals, Inc.",1325879
+62,AVXL,Anavex Life Sciences Corp.,1314052
+63,AWH,Aspira Women's Health Inc.,926617
+64,AXDX,"Accelerate Diagnostics, Inc.",727207
+65,AXGN,"Axogen, Inc.",805928
+66,AYRO,"AYRO, Inc.",1086745
+67,AYTU,"Aytu BioScience, Inc.",1385818
+68,BASI,"Bioanalytical Systems, Inc.",720154
+69,BBCP,"Concrete Pumping Holdings, Inc.",1703956
+70,BBI,"Brickell Biotech, Inc.",819050
+71,BCLI,Brainstorm Cell Therapeutics Inc.,1137883
+72,BCOW,"1895 Bancorp of Wisconsin, Inc.",1751692
+73,BCTF,"Bancorp 34, Inc.",1668340
+74,BFC,Bank First Corporation,1746109
+75,BFRA,Biofrontera AG,1712641
+76,BHAT,Blue Hat Interactive Entertainment Technology,1759136
+77,BHTG,"BioHiTech Global, Inc.",1590383
+78,BIMI,BOQI International Medical Inc.,1213660
+79,BKSC,Bank of South Carolina Corp.,1007273
+80,BLCM,"Bellicum Pharmaceuticals, Inc.",1358403
+81,BLFS,"BioLife Solutions, Inc.",834365
+82,BLIN,"Bridgeline Digital, Inc.",1378590
+83,BLNK,Blink Charging Co.,1429764
+84,BLPH,"Bellerophon Therapeutics, Inc.",1600132
+85,BLRX,BioLineRx Ltd.,1498403
+86,BMRA,"Biomerica, Inc.",73290
+87,BMRC,Bank of Marin Bancorp,1403475
+88,BNGOW,"Bionano Genomics, Inc.",
+89,BNSO,"Bonso Electronics International, Inc.",846546
+90,BNTC,Benitec Biopharma Inc.,1808898
+91,BOMN,Boston Omaha Corporation,1494582
+92,BOSC,B.O.S. Better Online Solutions,1005516
+93,BOTJ,"Bank of the James Financial Group, Inc.",1275101
+94,BPTH,Bio,1133818
+95,BRLIU,Brilliant Acquisition Corporation,
+96,BROG,Brooge Energy Limited,1774983
+97,BSBK,Bogota Financial Corp.,1787414
+98,BSGM,"BioSig Technologies, Inc.",1530766
+99,BSQR,BSQUARE Corporation,1054721
+100,BTAI,"BioXcel Therapeutics, Inc.",1720893
+101,BVXV,BiondVax Pharmaceuticals Ltd.,1611747
+102,BWB,"Bridgewater Bancshares, Inc.",1341317
+103,BWEN,"Broadwind, Inc.",1120370
+104,BWMX,"Betterware de Mexico, S.A.P.I de C.V.",1788257
+105,BXRX,"Baudax Bio, Inc.",1780097
+106,BYFC,Broadway Financial Corporation,1001171
+107,BYSI,"BeyondSpring, Inc.",1677940
+108,CAAS,"China Automotive Systems, Inc.",1157762
+109,CAPR,"Capricor Therapeutics, Inc.",1133869
+110,CARV,"Carver Bancorp, Inc.",1016178
+111,CASI,"CASI Pharmaceuticals, Inc.",895051
+112,CATC,Cambridge Bancorp,711772
+113,CBIO,"Catalyst Biosciences, Inc.",1124105
+114,CBMB,"CBM Bancorp, Inc.",1742089
+115,CCNC,Code Chain New Continent Limited,1641398
+116,CCRC,"China Customer Relations Centers, Inc.",1620664
+117,CDEV,"Centennial Resource Development, Inc.",1658566
+118,CDMO,"Avid Bioservices, Inc.",704562
+119,CDXC,ChromaDex Corporation,1386570
+120,CELC,Celcuity Inc.,1603454
+121,CELH,"Celsius Holdings, Inc.",1341766
+122,CEMI,"Chembio Diagnostics, Inc.",1092662
+123,CERC,Cerecor Inc.,1534120
+124,CETX,Cemtrex Inc.,1435064
+125,CFBI,"Community First Bancshares, Inc.",1691507
+126,CFBK,Central Federal Corporation,1070680
+127,CFRX,ContraFect Corporation,1478069
+128,CGIX,"Cancer Genetics, Inc.",1349929
+129,CGRO,Collective Growth Corporation,1799611
+130,CHCI,"Comstock Holding Companies, Inc.",1299969
+131,CHEKZ,Check,1610590
+132,CHPM,CHP Merger Corp.,1785041
+133,CIIC,CIIG Merger Corp.,1789760
+134,CIVB,"Civista Bancshares, Inc.",944745
+135,CJJD,China Jo,1413263
+136,CKPT,"Checkpoint Therapeutics, Inc.",1651407
+137,CLBS,"Caladrius Biosciences, Inc.",320017
+138,CLDB,Cortland Bancorp,774569
+139,CLDX,"Celldex Therapeutics, Inc.",744218
+140,CLEU,China Liberal Education Holdings Limited,1775085
+141,CLGN,CollPlant Biotechnologies Ltd.,1631487
+142,CLPT,ClearPoint Neuro Inc.,1285550
+143,CLRB,"Cellectar Biosciences, Inc.",1279704
+144,CLRO,"ClearOne, Inc.",840715
+145,CLSK,"CleanSpark, Inc.",827876
+146,CLSN,Celsion Corporation,749647
+147,CLWT,Euro Tech Holdings Company Limited,1026662
+148,CNET,"ChinaNet Online Holdings, Inc.",1376321
+149,CNNB,"Cincinnati Bancorp, Inc.",1787005
+150,CNSP,"CNS Pharmaceuticals, Inc.",1729427
+151,CNTY,"Century Casinos, Inc.",911147
+152,COCP,"Cocrystal Pharma, Inc.",1412486
+153,CODA,"Coda Octopus Group, Inc.",1334325
+154,CODX,Co,1692415
+155,COFS,"ChoiceOne Financial Services, Inc.",803164
+156,COOP,Mr. Cooper Group Inc.,933136
+157,CORT,Corcept Therapeutics Incorporated,1088856
+158,CPAA,Conyers Park II Acquisition Corp.,1776661
+159,CPAH,CounterPath Corporation,1236997
+160,CPRX,"Catalyst Pharmaceuticals, Inc.",1369568
+161,CPSH,CPS Technologies Corp.,814676
+162,CPST,Capstone Turbine Corporation,1009759
+163,CPTAG,Capitala Finance Corp.,
+164,CRDF,"Cardiff Oncology, Inc.",1213037
+165,CREG,China Recycling Energy Corporation,721693
+166,CREX,"Creative Realities, Inc.",1356093
+167,CRSA,Crescent Acquisition Corp,1723648
+168,CRWS,"Crown Crafts, Inc.",25895
+169,CSBR,"Champions Oncology, Inc.",771856
+170,CTIB,Yunhong CTI Ltd.,1042187
+171,CTIC,CTI BioPharma Corp.,891293
+172,CTSO,Cytosorbents Corporation,1175151
+173,CTXR,"Citius Pharmaceuticals, Inc.",1506251
+174,CUBA,"The Herzfeld Caribbean Basin Fund, Inc.",
+175,CUE,"Cue Biopharma, Inc.",1645460
+176,CVCY,Central Valley Community Bancorp,1127371
+177,CVV,CVD Equipment Corporation,766792
+178,CWBR,"CohBar, Inc.",
+179,CXDO,"Crexendo, Inc.",1075736
+180,CYAN,Cyanotech Corporation,768408
+181,CYCC,"Cyclacel Pharmaceuticals, Inc.",1130166
+182,CYRN,CYREN Ltd.,1084577
+183,CYRX,"CryoPort, Inc.",1124524
+184,CZNC,Citizens & Northern Corp,810958
+185,DAIO,Data I/O Corporation,351998
+186,DARE,"Dare Bioscience, Inc.",1401914
+187,DBCP,Delmar Bancorp,832090
+188,DCOMP,"Dime Community Bancshares, Inc.",1005409
+189,DCTH,"Delcath Systems, Inc.",872912
+190,DENN,Denny's Corporation,852772
+191,DFFN,Diffusion Pharmaceuticals Inc.,1053691
+192,DFHTU,Deerfield Healthcare Technology Acquisitions Corp.,1813914
+193,DFPH,DFP Healthcare Acquisitions Corp.,1799191
+194,DGLY,"Digital Ally, Inc.",1342958
+195,DJCO,Daily Journal Corp. (S.C.),783412
+196,DLHC,DLH Holdings Corp.,785557
+197,DLPNW,"Dolphin Entertainment, Inc.",
+198,DMAC,DiaMedica Therapeutics Inc.,1401040
+199,DMTK,"DermTech, Inc.",1651944
+200,DPHC,DiamondPeak Holdings Corp.,1759546
+201,DRIO,DarioHealth Corp.,1533998
+202,DRRX,DURECT Corporation,1082038
+203,DSKE,"Daseke, Inc.",1642453
+204,DUOT,"Duos Technologies Group, Inc.",1396536
+205,DVAX,Dynavax Technologies Corporation,1029142
+206,DYAI,"Dyadic International, Inc.",1213809
+207,DZSI,"DASAN Zhone Solutions, Inc.",1101680
+208,EAST,"Eastside Distilling, Inc.",1534708
+209,ECOLW,"US Ecology, Inc.",1783400
+210,EDNT,"Edison Nation, Inc.",1717556
+211,EDRY,EuroDry Ltd.,1731388
+212,EDSA,"Edesa Biotech, Inc.",1540159
+213,EFOI,"Energy Focus, Inc.",924168
+214,EGAN,eGain Corporation,1066194
+215,EGBN,"Eagle Bancorp, Inc.",1050441
+216,EKSO,"Ekso Bionics Holdings, Inc.",1549084
+217,ELSE,Electro,351789
+218,ELTK,Eltek Ltd.,1024672
+219,EMCF,Emclaire Financial Corp,858800
+220,ENG,ENGlobal Corporation,933738
+221,ENLV,Enlivex Therapeutics Ltd.,1596812
+222,ENOB,"Enochian Biosciences, Inc.",1527728
+223,ENTX,Entera Bio Ltd.,1638097
+224,EPIX,ESSA Pharma Inc.,1633932
+225,ESBK,Elmira Savings Bank NY (The),
+226,ESEA,Euroseas Ltd.,1341170
+227,ESQ,"Esquire Financial Holdings, Inc.",1531031
+228,ESSC,East Stone Acquisition Corporation,1760683
+229,ESTA,Establishment Labs Holdings Inc.,1688757
+230,ESXB,Community Bankers Trust Corporation.,1323648
+231,EVFM,"Evofem Biosciences, Inc.",1618835
+232,EVOK,"Evoke Pharma, Inc.",1403708
+233,EVOL,"Evolving Systems, Inc.",1052054
+234,EVSI,"Envision Solar International, Inc.",1398805
+235,EXAS,Exact Sciences Corporation,1124140
+236,EXPC,Experience Investment Corp.,1779128
+237,EYEG,"Eyegate Pharmaceuticals, Inc.",1372514
+238,EYEN,"Eyenovia, Inc.",1682639
+239,FAT,FAT Brands Inc.,1705012
+240,FBIO,"Fortress Biotech, Inc.",1429260
+241,FBRX,"Forte Biosciences, Inc.",1419041
+242,FBSS,"Fauquier Bankshares, Inc.",1083643
+243,FCAP,"First Capital, Inc.",1070296
+244,FCBP,First Choice Bancorp,1716697
+245,FCCO,First Community Corporation,932781
+246,FENC,Fennec Pharmaceuticals Inc.,1211583
+247,FFBW,"FFBW, Inc.",1787384
+248,FFHL,"Fuwei Films (Holdings) Co., Ltd.",1381074
+249,FLIC,The First of Long Island Corporation,740663
+250,FLL,"Full House Resorts, Inc.",891482
+251,FLMN,Falcon Minerals Corporation,1703785
+252,FMAO,"Farmers & Merchants Bancorp, Inc.",792966
+253,FMCI,Forum Merger II Corporation,1741231
+254,FMNB,Farmers National Banc Corp.,709337
+255,FNCB,FNCB Bancorp Inc.,1035976
+256,FNJN,"Finjan Holdings, Inc.",1366340
+257,FONR,Fonar Corporation,355019
+258,FORD,"Forward Industries, Inc.",38264
+259,FORK,Fuling Global Inc.,1637921
+260,FPAY,"FlexShopper, Inc.",1397047
+261,FRAF,Franklin Financial Services Corporation,723646
+262,FREE,"Whole Earth Brands, Inc.",1753706
+263,FRHC,Freedom Holding Corp.,924805
+264,FRSX,Foresight Autonomous Holdings Ltd.,1691221
+265,FSBW,"FS Bancorp, Inc.",1530249
+266,FSEA,First Seacoast Bancorp,1769267
+267,FSFG,"First Savings Financial Group, Inc.",1435508
+268,FSRV,FinServ Acquisition Corp.,1785424
+269,FTAC,FinTech Acquisition Corp. III,1729756
+270,FTFT,Future FinTech Group Inc.,1066923
+271,FUSB,"First US Bancshares, Inc.",717806
+272,FUV,"Arcimoto, Inc.",1558583
+273,FVCB,"FVCBankcorp, Inc.",1675644
+274,FVE,Five Star Senior Living Inc.,1159281
+275,FWP,Forward Pharma A/S,1604924
+276,FXNC,First National Corporation,719402
+277,GALT,Galectin Therapeutics Inc.,1133416
+278,GAN,GAN Limited,1799332
+279,GCBC,"Greene County Bancorp, Inc.",1070524
+280,GDYN,"Grid Dynamics Holdings, Inc.",1743725
+281,GEVO,"Gevo, Inc.",1392380
+282,GGAL,Grupo Financiero Galicia S.A.,1114700
+283,GHIV,"Gores Holdings IV, Inc.",1783398
+284,GIGM,GigaMedia Limited,1105101
+285,GLBZ,Glen Burnie Bancorp,890066
+286,GLG,"TD Holdings, Inc.",1556266
+287,GLMD,Galmed Pharmaceuticals Ltd.,1595353
+288,GMBL,Esports Entertainment Group Inc.,1451448
+289,GMHI,"Gores Metropoulos, Inc.",1758057
+290,GNCA,"Genocea Biosciences, Inc.",1457612
+291,GNPX,"Genprex, Inc.",1595248
+292,GNRS,Greenrose Acquisition Corp.,1790665
+293,GNSS,Genasys Inc.,924383
+294,GNUS,"Genius Brands International, Inc.",1355848
+295,GRBK,"Green Brick Partners, Inc.",1373670
+296,GRIL,"Muscle Maker, Inc",1701756
+297,GRNQ,Greenpro Capital Corp.,1597846
+298,GRNV,GreenVision Acquisition Corp,1788841
+299,GROW,"U.S. Global Investors, Inc.",754811
+300,GRWG,GrowGeneration Corp.,1604868
+301,GSMG,Glory Star New Media Group Holdings Limited,1738758
+302,GTEC,Greenland Technologies Holding Corporation,1735041
+303,GTIM,Good Times Restaurants Inc.,825324
+304,GTYH,"GTY Technology Holdings, Inc.",1682325
+305,GWGH,"GWG Holdings, Inc",1522690
+306,GXGX,GX Acquisition Corp.,
+307,GYRO,"Gyrodyne , LLC",1589061
+308,HAPP,Happiness Biotech Group Limited,1751876
+309,HBMD,"Howard Bancorp, Inc.",1390162
+310,HBP,"Huttig Building Products, Inc.",1093082
+311,HCAC,Hennessy Capital Acquisition Corp. IV,1750153
+312,HCCH,HL Acquisitions Corp.,1736874
+313,HCCO,Healthcare Merger Corp.,1791091
+314,HEBT,"Hebron Technology Co., Ltd.",1603993
+315,HECCU,Hudson Executive Investment Corp.,1803901
+316,HEPA,"Hepion Pharmaceuticals, Inc.",1583771
+317,HFBL,"Home Federal Bancorp, Inc. of Louisiana",1500375
+318,HFFG,HF Foods Group Inc.,1680873
+319,HIHO,Highway Holdings Limited,1026785
+320,HNNA,"Hennessy Advisors, Inc.",1145255
+321,HOFV,Hall of Fame Resort &amp; Entertainment Company,1791995
+322,HOTH,"Hoth Therapeutics, Inc.",1711786
+323,HQI,"HireQuest, Inc.",1140102
+324,HROW,"Harrow Health, Inc.",1360214
+325,HRTX,"Heron Therapeutics, Inc.",818033
+326,HSKA,Heska Corporation,1038133
+327,HSTO,Histogen Inc.,1383701
+328,HUGE,FSD Pharma Inc.,1771885
+329,HVBC,"HV Bancorp, Inc.",1594555
+330,HYAC,Haymaker Acquisition Corp. II,
+331,HYMC,Hycroft Mining Holding Corporation,1718405
+332,HYRE,HyreCar Inc.,1713832
+333,ICAD,icad inc.,749660
+334,ICCC,ImmuCell Corporation,811641
+335,ICCH,"ICC Holdings, Inc.",1681903
+336,IDEX,"Ideanomics, Inc.",837852
+337,IDRA,"Idera Pharmaceuticals, Inc.",861838
+338,IDXG,"Interpace Biosciences, Inc.",1054102
+339,IEA,"Infrastructure and Energy Alternatives, Inc.",1652362
+340,IFMK,iFresh Inc.,1681941
+341,IGIC,International General Insurance Holdings Ltd.,1794338
+342,IKNX,Ikonics Corporation,1083301
+343,IMAC,"IMAC Holdings, Inc.",1729944
+344,IMBI,"iMedia Brands, Inc.",870826
+345,IMRN,Immuron Limited,1660046
+346,IMTX,Immatics N.V.,1809196
+347,IMUX,"Immunic, Inc.",1280776
+348,IMV,IMV Inc.,1734768
+349,IMXI,"International Money Express, Inc.",1683695
+350,INMB,INmune Bio Inc.,1711754
+351,INSE,"Inspired Entertainment, Inc.",1615063
+352,INSU,Insurance Acquisition Corp.,1762322
+353,INTG,The Intergroup Corporation,69422
+354,INVE,"Identiv, Inc.",1036044
+355,IPDN,"Professional Diversity Network, Inc.",1546296
+356,IPWR,Ideal Power Inc.,1507957
+357,IRMD,iRadimed Corporation,1325618
+358,IROQ,"IF Bancorp, Inc.",1514743
+359,ISNS,"Image Sensing Systems, Inc.",943034
+360,ITI,"Iteris, Inc.",350868
+361,ITMR,Itamar Medical Ltd.,1613170
+362,IZEA,"IZEA Worldwide, Inc.",1495231
+363,JAN,JanOne Inc.,862861
+364,JCTCF,Jewett,885307
+365,JFK,8i Enterprises Acquisition Corp,1753648
+366,JRSH,"Jerash Holdings (US), Inc.",1696558
+367,JVA,"Coffee Holding Co., Inc.",1007019
+368,JYNT,The Joint Corp.,1612630
+369,KBSF,KBS Fashion Group Limited,1546383
+370,KERN,Akerna Corp.,1755953
+371,KIN,"Kindred Biosciences, Inc.",1561743
+372,KINS,"Kingstone Companies, Inc",33992
+373,KOPN,Kopin Corporation,771266
+374,KOSS,Koss Corporation,56701
+375,KRMD,"Repro Med Systems, Inc.",704440
+376,KTOVW,Kitov Pharma Ltd.,1614744
+377,KZIA,Kazia Therapeutics Limited,1075880
+378,LACQ,Leisure Acquisition Corp.,1716947
+379,LATN,Union Acquisition Corp. II,1766146
+380,LAZY,"Lazydays Holdings, Inc.",1721741
+381,LCA,"Landcadia Holdings II, Inc.",1768012
+382,LCNB,LCNB Corporation,1074902
+383,LE,"Lands' End, Inc.",799288
+384,LEDS,SemiLEDS Corporation,1333822
+385,LFAC,LF Capital Acquistion Corp.,1721386
+386,LFVN,Lifevantage Corporation,849146
+387,LGHL,Lion Group Holding Ltd.,1806524
+388,LIFE,"aTyr Pharma, Inc.",1339970
+389,LIND,Lindblad Expeditions Holdings Inc.,1512499
+390,LIQT,"LiqTech International, Inc.",1307579
+391,LIVE,Live Ventures Incorporated,1045742
+392,LIVK,LIV Capital Acquisition Corp.,1790625
+393,LIVX,"LiveXLive Media, Inc.",1491419
+394,LJPC,La Jolla Pharmaceutical Company,920465
+395,LMB,"Limbach Holdings, Inc.",1606163
+396,LMFA,"LM Funding America, Inc.",1640384
+397,LMPX,"LMP Automotive Holdings, Inc.",1731727
+398,LMST,"Limestone Bancorp, Inc.",1358356
+399,LOAC,Longevity Acquisition Corporation,1743858
+400,LOAN,"Manhattan Bridge Capital, Inc",1080340
+401,LPCN,Lipocine Inc.,1535955
+402,LPTH,"LightPath Technologies, Inc.",889971
+403,LQDA,"Liquidia Technologies, Inc.",1330436
+404,LSAC,LifeSci Acquisition Corp.,1796129
+405,LTBR,Lightbridge Corporation,1084554
+406,LTRN,Lantern Pharma Inc.,1763950
+407,LTRX,"Lantronix, Inc.",1114925
+408,LUNA,Luna Innovations Incorporated,1239819
+409,LYL,Dragon Victory International Limited,1682241
+410,MARK,"Remark Holdings, Inc.",1368365
+411,MARPS,Marine Petroleum Trust,62362
+412,MAYS,"J. W. Mays, Inc.",54187
+413,MBCN,Middlefield Banc Corp.,836147
+414,MBII,"Marrone Bio Innovations, Inc.",1441693
+415,MBIN,Merchants Bancorp,1629019
+416,MBNKP,Medallion Bank,
+417,MBOT,Microbot Medical Inc.,883975
+418,MBRX,"Moleculin Biotech, Inc.",1659617
+419,MCACU,Mountain Crest Acquisition Corp,1803914
+420,MCEP,Mid,1527709
+421,MCMJ,Merida Merger Corp. I,1785592
+422,MDGL,"Madrigal Pharmaceuticals, Inc.",1157601
+423,MDGS,Medigus Ltd.,1618500
+424,MDIA,Mediaco Holding Inc.,1784254
+425,MDJH,MDJM LTD,1741534
+426,MDRR,"Medalist Diversified REIT, Inc.",1654595
+427,MEDS,"Trxade Group, Inc.",1382574
+428,MEET,"The Meet Group, Inc.",1078099
+429,MEIP,"MEI Pharma, Inc.",1262104
+430,METX,Meten EdtechX Education Group Ltd.,1796514
+431,MFH,Mercurity Fintech Holding Inc.,1527762
+432,MFNC,Mackinac Financial Corporation,36506
+433,MGEN,"Miragen Therapeutics, Inc.",1590750
+434,MHLD,"Maiden Holdings, Ltd.",1412100
+435,MICT,"MICT, Inc.",854800
+436,MITK,"Mitek Systems, Inc.",807863
+437,MKD,Molecular Data Inc.,1758736
+438,MKGI,"Monaker Group, Inc.",1372183
+439,MLACU,Malacca Straits Acquisition Company Limited,1807594
+440,MLND,"Millendo Therapeutics, Inc.",1544227
+441,MMAC,"MMA Capital Holdings, Inc.",1003201
+442,MNCL,Monocle Acquisition Corporation,1754170
+443,MNPR,Monopar Therapeutics Inc.,1645469
+444,MNSB,"MainStreet Bancshares, Inc.",1693577
+445,MNTX,"Manitex International, Inc.",1302028
+446,MOSY,"MoSys, Inc.",890394
+447,MOTS,"Motus GI Holdings, Inc.",1686850
+448,MTC,"MMTec, Inc.",1742518
+449,MTEM,"Molecular Templates, Inc.",1183765
+450,MTP,Midatech Pharma PLC,1643918
+451,MVBF,MVB Financial Corp.,1277902
+452,MWK,"Mohawk Group Holdings, Inc.",1757715
+453,MYOS,MYOS RENS Technology Inc.,1402479
+454,MYSZ,"My Size, Inc.",1211805
+455,NATR,"Nature's Sunshine Products, Inc.",275053
+456,NBAC,Newborn Acquisition Corp.,1780262
+457,NBEV,New Age Beverages Corporation,1579823
+458,NBSE,"NeuBase Therapeutics, Inc.",1173281
+459,NCBS,Nicolet Bankshares Inc.,1174850
+460,NDRAW,ENDRA Life Sciences Inc.,1681682
+461,NEO,"NeoGenomics, Inc.",1077183
+462,NEON,Neonode Inc.,87050
+463,NEPH,"Nephros, Inc.",1196298
+464,NEPT,Neptune Wellness Solutions Inc.,1401395
+465,NESR,National Energy Services Reunited Corp.,1698514
+466,NETE,"Net Element, Inc.",1499961
+467,NEWA,"Newater Technology, Inc.",1678022
+468,NEXT,NextDecade Corporation,1612720
+469,NFIN,Netfin Acquisition Corp.,1776903
+470,NHLD,National Holdings Corporation,1023844
+471,NHTC,Natural Health Trends Corp.,912061
+472,NKSH,"National Bankshares, Inc.",796534
+473,NMRD,Nemaura Medical Inc.,1602078
+474,NNDM,Nano Dimension Ltd.,1643303
+475,NODK,"NI Holdings, Inc.",1681206
+476,NOVS,Novus Capital Corporation,1807707
+477,NPA,New Providence Acquisition Corp.,1780312
+478,NRBO,"NeuroBo Pharmaceuticals, Inc.",1638287
+479,NSYS,Nortech Systems Incorporated,722313
+480,NTRP,"Neurotrope, Inc.",1513856
+481,NTWK,NETSOL Technologies Inc.,1039280
+482,NURO,"NeuroMetrix, Inc.",1289850
+483,NUZE,"NuZee, Inc.",1527613
+484,NVCN,Neovasc Inc.,1399708
+485,NVEC,NVE Corporation,724910
+486,NVEE,"NV5 Global, Inc.",1532961
+487,NVFY,"Nova Lifestyle, Inc",1473334
+488,NVIV,InVivo Therapeutics Holdings Corp.,1292519
+489,NYMX,Nymox Pharmaceutical Corporation,1018735
+490,OAS,Oasis Petroleum Inc.,1486159
+491,OBCI,Ocean Bio,350737
+492,OCCI,"OFS Credit Company, Inc.",
+493,OESX,"Orion Energy Systems, Inc.",1409375
+494,OFED,Oconee Federal Financial Corp.,1501078
+495,OMEX,"Odyssey Marine Exploration, Inc.",798528
+496,ONCS,OncoSec Medical Incorporated,1444307
+497,ONCT,"Oncternal Therapeutics, Inc.",1260990
+498,ONCY,Oncolytics Biotech Inc.,1129928
+499,ONTXW,"Onconova Therapeutics, Inc.",1130598
+500,OPGN,"OpGen, Inc.",1293818
+501,OPHC,"OptimumBank Holdings, Inc.",1288855
+502,OPNT,"Opiant Pharmaceuticals, Inc.",1385508
+503,OPOF,Old Point Financial Corporation,740971
+504,OPRX,OptimizeRx Corporation,1448431
+505,ORGO,Organogenesis Holdings Inc.,1661181
+506,ORGS,Orgenesis Inc.,1460602
+507,ORMP,Oramed Pharmaceuticals Inc.,1176309
+508,ORRF,Orrstown Financial Services Inc,826154
+509,ORSN,Orisun Acquisition Corp.,1770251
+510,OSN,"Ossen Innovation Co., Ltd.",1485538
+511,OSPN,OneSpan Inc.,1044777
+512,OSS,"One Stop Systems, Inc.",1394056
+513,OSW,OneSpaWorld Holdings Limited,1758488
+514,OTEL,Otelco Inc.,1288359
+515,OTLK,"Outlook Therapeutics, Inc.",1649989
+516,OTRK,"Ontrak, Inc.",1136174
+517,OVLY,Oak Valley Bancorp (CA),1431567
+518,OXBR,Oxbridge Re Holdings Limited,1584831
+519,PACQ,Pure Acquisition Corp.,1726293
+520,PAE,PAE Incorporated,1720821
+521,PANL,Pangaea Logistics Solutions Ltd.,1606909
+522,PAVM,PAVmed Inc.,1624326
+523,PAYS,"Paysign, Inc.",1496443
+524,PBFS,"Pioneer Bancorp, Inc.",1769663
+525,PBHC,"Pathfinder Bancorp, Inc.",1609065
+526,PBTS,"Powerbridge Technologies Co., Ltd.",1754323
+527,PCOM,"Points International, Ltd.",1204413
+528,PCSB,PCSB Financial Corporation,1691337
+529,PCYG,"Park City Group, Inc.",50471
+530,PCYO,Pure Cycle Corporation,276720
+531,PDEX,Pro,788920
+532,PDSB,PDS Biotechnology Corporation,1472091
+533,PECK,"The Peck Company Holdings, Inc.",1634447
+534,PESI,Perma,891532
+535,PETZ,"TDH Holdings, Inc.",1684425
+536,PFSW,"PFSweb, Inc.",1095315
+537,PHCF,"Puhui Wealth Investment Management Co., Ltd.",1729089
+538,PHIO,Phio Pharmaceuticals Corp.,1533040
+539,PHUN,"Phunware, Inc.",1665300
+540,PIRS,"Pieris Pharmaceuticals, Inc.",1583648
+541,PIXY,"ShiftPixy, Inc.",1675634
+542,PKBK,"Parke Bancorp, Inc.",1315399
+543,PLBC,Plumas Bancorp,1168455
+544,PLIN,"China Xiangtai Food Co., Ltd.",1735556
+545,PLL,Piedmont Lithium Limited,1728205
+546,PLSE,"Pulse Biosciences, Inc",1625101
+547,PLUG,"Plug Power, Inc.",1093691
+548,PMD,Psychemedics Corporation,806517
+549,PME,Pingtan Marine Enterprise Ltd.,1517130
+550,PNRG,PrimeEnergy Resources Corporation,56868
+551,POAI,Predictive Oncology Inc.,1446159
+552,POLA,"Polar Power, Inc.",1622345
+553,PPSI,"Pioneer Power Solutions, Inc.",1449792
+554,PROF,Profound Medical Corp.,1628808
+555,PRPH,"ProPhase Labs, Inc.",868278
+556,PRPL,"Purple Innovation, Inc.",1643953
+557,PRPO,"Precipio, Inc.",1043961
+558,PRTH,"Priority Technology Holdings, Inc.",1653558
+559,PSTI,"Pluristem Therapeutics, Inc.",1158780
+560,PSTV,"PLUS THERAPEUTICS, Inc.",1095981
+561,PTAC,PropTech Acquisition Corporation,1784535
+562,PTE,"PolarityTE, Inc.",1076682
+563,PULM,"Pulmatrix, Inc.",1574235
+564,PVBC,"Provident Bancorp, Inc.",1778784
+565,QLGN,"Qualigen Therapeutics, Inc.",1460702
+566,QRHC,Quest Resource Holding Corporation,1442236
+567,QUIK,QuickLogic Corporation,882508
+568,QUMU,Qumu Corporation,892482
+569,RADA,RADA Electronic Industries Ltd.,761238
+570,RAND,Rand Capital Corporation,81955
+571,RBCN,"Rubicon Technology, Inc.",1410172
+572,RBKB,"Rhinebeck Bancorp, Inc.",1751783
+573,RBNC,"Reliant Bancorp, Inc.",1606440
+574,RCEL,"Avita Therapeutics, Inc.",1762303
+575,RCON,"Recon Technology, Ltd.",1442620
+576,RDCM,Radcom Ltd.,1016838
+577,RDI,Reading International Inc,716634
+578,RDVT,"Red Violet, Inc.",1720116
+579,REFR,Research Frontiers Incorporated,793524
+580,REKR,"Rekor Systems, Inc.",
+581,RELV,"Reliv' International, Inc.",768710
+582,REPH,"Recro Pharma, Inc.",1588972
+583,RESN,Resonant Inc.,1579910
+584,REXN,"Rexahn Pharmaceuticals, Inc.",1228627
+585,RIBT,RiceBran Technologies,1063537
+586,RIOT,"Riot Blockchain, Inc",1167419
+587,RKDA,"Arcadia Biosciences, Inc.",1469443
+588,RMBI,"Richmond Mutual Bancorporation, Inc.",1767837
+589,RMBL,"RumbleOn, Inc.",1596961
+590,RMR,The RMR Group Inc.,1644378
+591,ROCH,Roth CH Acquisition I Co.,
+592,ROSEU,Rosehill Resources Inc.,
+593,RPAY,Repay Holdings Corporation,1720592
+594,RSSS,"Research Solutions, Inc",1386301
+595,RWLK,ReWalk Robotics Ltd.,1607962
+596,SAL,"Salisbury Bancorp, Inc.",1060219
+597,SAMA,Schultze Special Purpose Acquisition Corp.,1754824
+598,SANW,S&W Seed Company,1477246
+599,SAQN,Software Acquisition Group Inc.,1776909
+600,SAVA,"Cassava Sciences, Inc.",1069530
+601,SBFG,"SB Financial Group, Inc.",767405
+602,SBPH,"Spring Bank Pharmaceuticals, Inc.",1566373
+603,SCKT,"Socket Mobile, Inc.",944075
+604,SEEL,"Seelos Therapeutics, Inc.",1017491
+605,SELF,"Global Self Storage, Inc.",1031235
+606,SFBC,"Sound Financial Bancorp, Inc.",1541119
+607,SFET,Safe,1725332
+608,SGBX,"SG Blocks, Inc.",1023994
+609,SGLB,"Sigma Labs, Inc.",788611
+610,SGMA,"SigmaTron International, Inc.",915358
+611,SGOC,"SGOCO Group, Ltd",1412095
+612,SHIP,Seanergy Maritime Holdings Corp,1448397
+613,SHSP,"SharpSpring, Inc.",1506439
+614,SIC,"Select Interior Concepts, Inc.",1723866
+615,SIEB,Siebert Financial Corp.,65596
+616,SINT,"SiNtx Technologies, Inc.",1269026
+617,SJ,Scienjoy Holding Corporation,1753673
+618,SKYS,"Sky Solar Holdings, Ltd.",1594124
+619,SLGG,"Super League Gaming, Inc.",1621672
+620,SLNO,"Soleno Therapeutics, Inc.",1484565
+621,SLP,"Simulations Plus, Inc.",1023459
+622,SLRX,"Salarius Pharmaceuticals, Inc.",1615219
+623,SLS,"SELLAS Life Sciences Group, Inc.",1390478
+624,SMBK,"SmartFinancial, Inc.",1038773
+625,SMED,Sharps Compliance Corp.,898770
+626,SMIT,"Schmitt Industries, Inc.",922612
+627,SMMC,South Mountain Merger Corp.,
+628,SMPL,The Simply Good Foods Company,1702744
+629,SMSI,"Smith Micro Software, Inc.",948708
+630,SNES,"SenesTech, Inc.",1680378
+631,SNGX,"Soligenix, Inc.",812796
+632,SNOA,"Sonoma Pharmaceuticals, Inc.",1367083
+633,SOLO,Electrameccanica Vehicles Corp. Ltd.,1637736
+634,SOLY,"Soliton, Inc.",1548187
+635,SONN,"Sonnet BioTherapeutics Holdings, Inc.",1106838
+636,SPNS,Sapiens International Corporation N.V.,885740
+637,SPRT,"Support.com, Inc.",1104855
+638,SPT,"Sprout Social, Inc",1517375
+639,SRAC,Stable Road Acquisition Corp.,1781162
+640,SRAX,"SRAX, Inc.",1538217
+641,SRNE,"Sorrento Therapeutics, Inc.",850261
+642,SRTS,"Sensus Healthcare, Inc.",1494891
+643,SSKN,"Strata Skin Sciences, Inc.",1051514
+644,SSNT,"SilverSun Technologies, Inc.",1236275
+645,SSPK,Silver Spike Acquisition Corp.,1779474
+646,SSSS,SuRo Capital Corp.,1509470
+647,SSTI,"ShotSpotter, Inc.",1351636
+648,STKS,"The ONE Group Hospitality, Inc.",1399520
+649,STND,Standard AVB Financial Corp.,1492915
+650,STRM,"Streamline Health Solutions, Inc.",1008586
+651,SUMR,"Summer Infant, Inc.",1314772
+652,SVBI,Severn Bancorp Inc,868271
+653,SWKH,SWK Holdings Corporation,1089907
+654,TACO,"Del Taco Restaurants, Inc.",1585583
+655,TAIT,Taitron Components Incorporated,942126
+656,TANH,Tantech Holdings Ltd.,1588084
+657,TARA,"Protara Therapeutics, Inc.",1359931
+658,TAYD,"Taylor Devices, Inc.",96536
+659,TBLT,"ToughBuilt Industries, Inc.",1668370
+660,TC,TuanChe Limited,1743340
+661,TCCO,Technical Communications Corporation,96699
+662,TCFC,The Community Financial Corporation,855874
+663,TCON,"TRACON Pharmaceuticals, Inc.",1394319
+664,TCX,Tucows Inc.,909494
+665,TDAC,Trident Acquisitions Corp.,1673481
+666,TECTP,"Tectonic Financial, Inc.",1766526
+667,TELL,Tellurian Inc.,61398
+668,TENX,"Tenax Therapeutics, Inc.",34956
+669,TFFP,"TFF Pharmaceuticals, Inc.",1733413
+670,TGLS,Tecnoglass Inc.,1534675
+671,TGTX,"TG Therapeutics, Inc.",1001316
+672,TH,Target Hospitality Corp.,1712189
+673,THBR,"Thunder Bridge Acquisition II, Ltd.",1769318
+674,THCA,Tuscan Holdings Corp. II,1773087
+675,THCB,Tuscan Holdings Corp.,1760689
+676,THMO,"ThermoGenesis Holdings, Inc.",811212
+677,THTX,Theratechnologies Inc.,1512717
+678,TIPT,Tiptree Inc.,1393726
+679,TMDI,Titan Medical Inc.,840551
+680,TOTA,Tottenham Acquisition I Limited,1731176
+681,TRIL,Trillium Therapeutics Inc.,1616212
+682,TRMT,Tremont Mortgage Trust,1708405
+683,TRVN,"Trevena, Inc.",1429560
+684,TSRI,"TSR, Inc.",98338
+685,TWMC,Trans World Entertainment Corp.,795212
+686,TWNK,"Hostess Brands, Inc.",1644406
+687,TXAC,Therapeutics Acquisition Corp.,1811764
+688,TYME,"Tyme Technologies, Inc.",1537917
+689,TZAC,Tenzing Acquisition Corp.,1742927
+690,UBCP,"United Bancorp, Inc.",731653
+691,UFPT,"UFP Technologies, Inc.",914156
+692,UIHC,United Insurance Holdings Corp.,1401521
+693,UONE,"Urban One, Inc.",1041657
+694,USAU,U.S. Gold Corp.,27093
+695,USEG,U.S. Energy Corp.,101594
+696,USIO,"Usio, Inc.",1088034
+697,USWSW,"U.S. Well Services, Inc.",1670349
+698,VALU,"Value Line, Inc.",717720
+699,VBFC,Village Bank and Trust Financial Corp.,1290476
+700,VBIV,"VBI Vaccines, Inc.",764195
+701,VCEL,Vericel Corporation,887359
+702,VCNX,"Vaccinex, Inc.",1205922
+703,VERB,"Verb Technology Company, Inc.",1566610
+704,VERU,Veru Inc.,863894
+705,VERY,"Vericity, Inc.",1575434
+706,VFF,"Village Farms International, Inc.",1584549
+707,VKTX,"Viking Therapeutics, Inc.",1607678
+708,VMD,"Viemed Healthcare, Inc.",1729149
+709,VRME,"VerifyMe, Inc.",1104038
+710,VRRM,Verra Mobility Corporation,1682745
+711,VTSI,"VirTra, Inc.",1085243
+712,VTVT,vTv Therapeutics Inc.,1641489
+713,VUZI,Vuzix Corporation,1463972
+714,VVPR,VivoPower International PLC,1681348
+715,WAFU,Wah Fu Education Group Limited,1716770
+716,WATT,Energous Corporation,1575793
+717,WHLM,"Wilhelmina International, Inc.",1013706
+718,WHLR,"Wheeler Real Estate Investment Trust, Inc.",1527541
+719,WILC,G. Willi,1030997
+720,WINT,"Windtree Therapeutics, Inc.",946486
+721,WISA,"Summit Wireless Technologies, Inc.",1682149
+722,WKHS,"Workhorse Group, Inc.",1425287
+723,WORX,SCWorx Corp.,1674227
+724,WRTC,"Wrap Technologies, Inc.",1702924
+725,WSC,WillScot Mobile Mini Holdings Corp.,1647088
+726,WTER,The Alkaline Water Company Inc.,1532390
+727,WVVI,"Willamette Valley Vineyards, Inc.",838875
+728,WWR,"Westwater Resources, Inc.",839470
+729,XAIR,"Beyond Air, Inc.",1641631
+730,XBIO,"Xenetic Biosciences, Inc.",1534525
+731,XCUR,"Exicure, Inc.",1698530
+732,XFOR,"X4 Pharmaceuticals, Inc.",1501697
+733,XPEL,"XPEL, Inc.",1767258
+734,XSPA,"XpresSpa Group, Inc.",1410428
+735,XTLB,XTL Biopharmaceuticals Ltd.,1023549
+736,YTEN,"Yield10 Bioscience, Inc.",1121702
+737,YTRA,"Yatra Online, Inc.",1516899
+738,YVR,Liquid Media Group Ltd.,884247
+739,ZCMD,Zhongchao Inc.,1785566
+740,ZGYH,Yunhong International,
+741,ZKIN,"ZK International Group Co., Ltd",1687451
+742,ZYXI,"Zynex, Inc.",846475

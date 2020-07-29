@@ -1,0 +1,67 @@
+,Name,Ticker,Price,Sector,MarketCap,PE,ROE,ROA
+ABG,Asbury Automotive Group Inc,ABG,99.93,Consumer Cyclical,"1,927",11.8,28.0,6.7
+ALSN,"Allison Transmission Holdings, Inc.",ALSN,37.52,Consumer Cyclical,"4,246",7.8,80.1,12.4
+ANTM,"Anthem, Inc.",ANTM,266.28,Healthcare,"67,133",14.4,15.5,5.5
+APTV,Aptiv PLC Ordinary,APTV,82.15,Consumer Cyclical,"22,182",9.1,53.0,5.6
+ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V.",ASR,101.19,Industrials,"3,066",10.4,15.0,8.5
+ATGE,Adtalem Global Education Inc.,ATGE,36.29,Consumer Defensive,"1,879",9.1,17.4,5.4
+ATKR,Atkore International Group Inc.,ATKR,27.27,Industrials,"1,286",8.6,69.0,10.8
+BBL,BHP Group PlcSponsored ADR,BBL,44.665,Basic Materials,"113,127",12.0,19.1,11.0
+BHP,BHP Group Limited American,BHP,53.42,Basic Materials,"135,344",14.4,19.1,11.0
+BKE,"Buckle, Inc. (The)",BKE,15.79,Consumer Cyclical,780,9.9,20.0,7.2
+BOOT,"Boot Barn Holdings, Inc.",BOOT,19.47,Consumer Cyclical,561,11.9,16.4,5.9
+BPMP,BP Midstream Partners LP Common,BPMP,11.3,Energy,"1,184",7.0,84.5,7.6
+BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",BSM,6.5,Energy,"1,343",5.2,25.2,11.8
+BWA,BorgWarner Inc.,BWA,37.84,Consumer Cyclical,"7,844",10.9,16.5,7.3
+CAT,"Caterpillar, Inc.",CAT,135.74,Industrials,"73,467",14.3,35.7,6.1
+CEPU,Central Puerto S.A. American,CEPU,2.74,Utilities,681,0.6,15.2,9.9
+CMC,Commercial Metals Company,CMC,20.445,Basic Materials,"2,434",8.2,17.6,8.4
+CMI,Cummins Inc.,CMI,185.89,Industrials,"27,423",13.6,25.4,7.5
+CNXM,CNX Midstream Partners LP Common,CNXM,6.96,Energy,625,2.9,50.5,12.1
+CPB,Campbell Soup Company,CPB,49.52,Consumer Defensive,"14,963",9.8,26.2,5.8
+CW,Curtiss-Wright Corporation,CW,91.095,Industrials,"3,794",12.9,18.7,7.7
+DHI,"D.R. Horton, Inc.",DHI,62.7,Consumer Cyclical,"22,793",12.4,18.7,9.2
+DVA,DaVita Inc.,DVA,85.875,Healthcare,"10,459",13.7,24.1,5.7
+EC,Ecopetrol S.A. American,EC,12.41,Energy,"25,512",5.8,21.9,7.9
+EME,"EMCOR Group, Inc.",EME,63.16,Industrials,"3,464",10.9,17.1,6.5
+ENIA,Enel Americas S.A. American,ENIA,7.5,Utilities,"11,593",6.5,22.6,5.7
+EPD,Enterprise Products Partners L.P.,EPD,18.5463,Energy,"40,540",8.7,18.9,5.7
+FF,FutureFuel Corp.  Common shares,FF,13.015,Basic Materials,569,5.6,27.1,9.0
+FIX,"Comfort Systems USA, Inc.",FIX,41.48,Industrials,"1,512",13.7,20.2,7.3
+FRO,Frontline Ltd. Ordinary,FRO,7.52,Energy,"1,486",5.3,18.9,6.6
+GEF,Greif Inc.,GEF,36.995,Consumer Cyclical,"1,889",10.4,16.3,5.4
+GOLD,Barrick Gold Corporation,GOLD,28.5899,Basic Materials,"50,665",11.9,21.0,5.1
+HBI,Hanesbrands Inc.,HBI,13.99,Consumer Cyclical,"4,869",9.9,53.5,6.6
+HEP,"Holly Energy Partners, L.P.",HEP,13.86,Energy,"1,461",7.4,39.4,7.5
+HXL,Hexcel Corporation,HXL,45.11,Industrials,"3,766",13.9,19.8,7.6
+INGR,Ingredion Incorporated,INGR,85.32,Consumer Defensive,"5,714",14.8,15.5,7.4
+KGC,Kinross Gold Corporation,KGC,8.515,Basic Materials,"10,693",13.7,15.6,6.5
+KNL,"Knoll, Inc.",KNL,12.24,Industrials,620,10.1,15.2,5.9
+LEA,Lear Corporation,LEA,115.56,Consumer Cyclical,"6,924",11.2,15.1,5.7
+LUV,Southwest Airlines Company,LUV,33.675,Industrials,"19,847",9.8,19.3,5.5
+LYB,LyondellBasell Industries NV Ordinary,LYB,68.56,Basic Materials,"22,872",8.7,30.7,7.2
+MEI,"Methode Electronics, Inc.",MEI,29.425,Technology,"1,093",9.0,16.8,7.4
+MLI,"Mueller Industries, Inc.",MLI,27.98,Industrials,"1,588",13.5,19.7,7.9
+MMP,Magellan Midstream Partners L.P. Limited Partnership,MMP,42.4,Energy,"9,542",8.8,42.7,8.5
+MSM,"MSC Industrial Direct Company, Inc.",MSM,66.56,Industrials,"3,699",14.0,19.3,10.1
+MTH,Meritage Homes Corporation,MTH,85.535,Consumer Cyclical,"3,215",11.3,15.8,6.2
+MTZ,"MasTec, Inc.",MTZ,41.945,Industrials,"3,093",8.3,24.8,7.0
+MWA,MUELLER WATER PRODUCTS,MWA,10.015,Industrials,"1,579",15.0,18.7,7.2
+NRG,"NRG Energy, Inc.",NRG,33.385,Utilities,"8,148",2.1,51837.5,7.4
+OEC,Orion Engineered Carbons S.A,OEC,10.78,Basic Materials,652,7.7,51.2,7.5
+PAM,Pampa Energia S.A. Pampa Energia S.A.,PAM,11.73,Utilities,"1,212",0.0,28.6,5.2
+PBFX,PBF Logistics LP Common,PBFX,9.515,Energy,593,5.0,83.3,10.6
+PFE,"Pfizer, Inc.",PFE,36.8499,Healthcare,"204,694",13.2,25.4,5.8
+PHM,"PulteGroup, Inc.",PHM,37.87,Consumer Cyclical,"10,154",9.9,20.1,8.3
+RCI,"Rogers Communication, Inc.",RCI,41.38,Communication Services,"21,148",14.8,21.7,6.3
+RHI,Robert Half International Inc.,RHI,53.77,Industrials,"6,162",14.3,39.4,16.9
+SNA,Snap-On Incorporated,SNA,139.46,Industrials,"7,580",11.9,20.4,10.5
+SWM,"Schweitzer-Mauduit International, Inc.",SWM,32.26,Basic Materials,"1,006",11.1,15.8,5.5
+TALO,"Talos Energy, Inc.",TALO,8.725,Energy,570,1.5,28.4,10.3
+TGNA,TEGNA Inc,TGNA,11.655,Communication Services,"2,546",8.6,19.4,6.6
+TGS,Transportadora de Gas del Sur SA TGS,TGS,5.87,Energy,898,5.5,28.0,13.6
+TKC,Turkcell Iletisim Hizmetleri AS,TKC,5.835,Communication Services,"5,200",7.8,16.2,7.5
+TKR,Timken Company (The),TKR,47.48,Industrials,"3,564",10.4,20.2,6.7
+TSU,TIM Participacoes S.A. American,TSU,16.03,Communication Services,"7,357",11.7,17.2,5.3
+URI,"United Rentals, Inc.",URI,160.83,Industrials,"11,587",10.5,33.4,7.5
+WHD,"Cactus, Inc.",WHD,22.27,Energy,"1,678",13.5,29.4,13.8
