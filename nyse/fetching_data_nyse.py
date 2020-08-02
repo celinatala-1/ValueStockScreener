@@ -6,12 +6,11 @@ from yahooquery import *
 #the script to pull all companies listed on a exchange and cleaning it up
 #
 filename = "nyse.csv"
-# # getting the file nasdaq ftp and deleting the first few lines/last line
-# # os.system("curl --ftp-ssl anonymous:celinahtala@gmail.com "
-# #           "ftp://ftp.nasdaqtrader.com/SymbolDirectory/otherlisted.txt "
-# #           "> nyse.txt")
-# # # #
-# # os.system("sed -i '' -e 1,7d -e '$ d' nyse.txt")
+# getting the file nasdaq ftp and deleting the first few lines/last line
+os.system("curl --ftp-ssl anonymous:celinahtala@gmail.com "
+          "ftp://ftp.nasdaqtrader.com/SymbolDirectory/otherlisted.txt "
+          "> nyse.txt")
+os.system("sed -i '' -e 1,7d -e '$ d' nyse.txt")
 columns = ['Ticker', 'Name', 'Exchange', 'ETF', 'Test']
 
 #dropping all ETF, non NYSE stocks, and test runs

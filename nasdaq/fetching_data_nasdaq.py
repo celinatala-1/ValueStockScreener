@@ -6,11 +6,11 @@ from yahooquery import *
 
 filename = "nasdaq.csv"
 #getting the file nasdaq ftp and deleting the first few lines/last line
-# os.system("curl --ftp-ssl anonymous:celinahtala@gmail.com "
-#           "ftp://ftp.nasdaqtrader.com/SymbolDirectory/nasdaqlisted.txt "
-#           "> nasdaq.txt")
-#
-# os.system("sed -i '' -e 1,8d -e '$ d' nasdaq.txt")
+os.system("curl --ftp-ssl anonymous:celinahtala@gmail.com "
+          "ftp://ftp.nasdaqtrader.com/SymbolDirectory/nasdaqlisted.txt "
+          "> nasdaq.txt")
+
+os.system("sed -i '' -e 1,8d -e '$ d' nasdaq.txt")
 
 
 columns = ["Ticker", "Old_Name", "Category", "Test", "Status"]
